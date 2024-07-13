@@ -1,4 +1,4 @@
-$data merge storage fluxedit:temp {solid:$(solid),radius:$(radius),height:$(height),block:$(block),replace:"",root:""}
+$data merge storage fluxedit:temp {solid:$(solid),radius:$(radius),height:$(height),block:$(block),replace:"$(replace)",root:""}
 
 $execute if data storage fluxedit:temp {solid:0} run data merge storage fluxedit:temp {root:"^ ^ ^$(radius)"}
 execute if data storage fluxedit:temp {solid:1} run data merge storage fluxedit:temp {root:"~ ~ ~"}
