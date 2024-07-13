@@ -18,4 +18,4 @@ If you want to make cylinders, download this datapack.
 
 `replace` String. Another block name. The block type that the cylinder will replace.
 
-https://youtu.be/Jbbh8b3YC0k
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Jbbh8b3YC0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
